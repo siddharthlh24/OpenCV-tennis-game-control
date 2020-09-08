@@ -1,7 +1,7 @@
 # OpenCV-tennis-game-control
 This project uses python OpenCV for object tracking to control player in a tennis game. Data is sent to Unity3D over UDP.<br>
-![](media/Screenshot_47.png)<br>
-![](media/Screenshot_48.png)<br>
+![](media/Screenshot _47.png)<br>
+![](media/Screenshot _48.png)<br>
 
 # Video link
 https://www.youtube.com/watch?v=mQiQYkRC940 
