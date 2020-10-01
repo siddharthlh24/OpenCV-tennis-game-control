@@ -2,9 +2,8 @@
 This project uses python OpenCV for object tracking to control player in a tennis game. The player is tracked using colour based tracking. Lateral movement Data is sent to Unity3D over UDP. <br>
 
 # Video link
-```
 https://www.youtube.com/watch?v=mQiQYkRC940 
-```
+
 
 ![](media/Screenshot%20_47.png)<br>
 ![](media/Screenshot%20_48.png)<br>
