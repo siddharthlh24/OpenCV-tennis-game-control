@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=mQiQYkRC940
 
 # How to do it yourself
 1) Get game : https://drive.google.com/file/d/1vjJqjmb__F4aycuzMgblkQp6clUmwgjf/view <br>
+1.1) If the link ever goes down, I have uploaded the zip. ![](tennis_tutorial.zip) <br>
 2) Replace the player.cs file.<br>
 3) Run python script, track something blue, then run game<br>
 4) Yah no, that's pretty much it.<br>
